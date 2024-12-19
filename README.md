@@ -3,12 +3,20 @@ Integrating YOLOv8 for accurate disease identification and GPT-3.5 Turbo for com
 
 ## Features
 
-- Browse and search for farmers and vendors.
-- Upload crop details.
-- Real-time weather page for daily updates.
-- Latest news made available in the news page.
-- Smart connect page to interact and contact other farmers.
-- Integration with Firebase Authentication for user authentication and data security.
+1. **YOLOv8:** Enables real-time detection of coffee diseases like Brown Eye Spot and Leaf Rust.  
+
+2. **RAG:** Retrieves relevant data for accurate disease diagnosis.  
+
+3. **Sensors:** Monitors temperature, humidity, and soil for adaptive management.  
+
+4. **Dataset Expansion:** Dynamically updates data for broader disease coverage.  
+
+5. **Integration:** Aligns system with organizational goals for seamless use.  
+
+6. **Versatility:** Scales to various crops beyond coffee.  
+
+7. **Proactive Management:** Adapts to future agricultural challenges.  
+
 
 ## Technologies Used
 
