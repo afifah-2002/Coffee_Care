@@ -35,7 +35,7 @@ Integrating YOLOv8 for accurate disease identification and GPT-3.5 Turbo for com
 ## User Interface
 
 <div align="center">
-    <img src="/images/Coffee_Care/coffee1.png" alt="Image 1" width="250" height="580" style="display: inline-block; margin-right: 20px;">
+    <img src="/images/coffee1.png" alt="Image 1" width="250" height="580" style="display: inline-block; margin-right: 20px;">
     <img src="/images/coffee2.png" alt="Image 2" width="250" height="580" style="display: inline-block; margin-right: 20px;">
     <img src="/images/coffee3.png" alt="Image 3" width="250" height="580" style="display: inline-block;">
 </div>
@@ -47,11 +47,8 @@ Integrating YOLOv8 for accurate disease identification and GPT-3.5 Turbo for com
 </div>
 
 
-### Firebase Database
+### System Architecture
 <div align="center">
-    <img src="/Annadata/Picture9.png" alt="Image 1" width="1000" style="display: inline-block; margin-right: 20px;">
-</div>
-<div align="center">
-    <img src="/Annadata/Picture10.png" alt="Image 1" width="1000" style="display: inline-block; margin-right: 20px;">
+    <img src="/images/system_architecture.png" alt="Image 1" width="1000" style="display: inline-block; margin-right: 20px;">
 </div>
 
