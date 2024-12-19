@@ -19,10 +19,18 @@ Integrating YOLOv8 for accurate disease identification and GPT-3.5 Turbo for com
 
 
 ## Technologies Used
-
-- **Flutter**: Cross-platform framework for building mobile applications.
-- **Dart**: Object-oriented programming language used in Flutter development.
-- **Firebase**: Backend-as-a-Service platform for authentication, real-time database, and push notifications.
+- **Python 3.8+**  
+- **Visual Studio Code / PyCharm**  
+- **YOLOv8**  
+- **GPT-3.5 Turbo API**  
+- **Flask**  
+- **MongoDB**  
+- **Git**  
+- **RESTful API**  
+- **Socket.io**  
+- **pip**  
+- **SSL/TLS**  
+- **Firewall**  
 
 ## User Interface
 
